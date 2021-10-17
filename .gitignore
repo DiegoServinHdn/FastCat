@@ -1,0 +1,8 @@
+# enviroments
+/*env
+
+# VS cache
+**/__pycache__
+
+# db files
+**/*.sqlite*
