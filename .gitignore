@@ -1,5 +1,6 @@
 # enviroments
 /*env
+**/.env
 
 # VS cache
 **/__pycache__
