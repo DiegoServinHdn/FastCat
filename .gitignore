@@ -7,3 +7,6 @@
 
 # db files
 **/*.sqlite*
+
+# node modules
+/**/node_modules
